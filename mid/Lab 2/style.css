@@ -1,0 +1,54 @@
+body{
+    display:flex;
+    background-color:navajowhite;
+    margin: auto;
+
+
+}
+
+.card1{
+    background-color: beige; width: 300;
+    border: 2px solid black
+     
+   
+
+}
+h1 {
+    background-color: rgba(229, 178, 96, 0.584);
+}
+.parent.class{
+
+    display: flex;
+    margin:auto;
+
+   
+    gap:5px;          
+   
+   
+   
+
+}
+.parent{
+    display: flex;
+    gap:3px;  
+    padding: 20;  
+
+   
+   
+   
+
+}
+.parent3{
+    padding: 20px;
+}
+.card{
+    background-color: beige; width: 300;
+    width:300;
+    height:500;
+    padding:10;
+    margin: auto;
+    text-align:center;
+    border: 2px solid black
+
+
+}
